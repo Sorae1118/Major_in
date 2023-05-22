@@ -10,5 +10,5 @@
 ![](kakaodevelopers.png)
 + 로그인하여 카카오 계정의 프로필 사진과 닉네임을 출력함
 + 로그인 상태가 유지될 수 있고 언제든 로그아웃할 수 있음
-+ 자세한 건 Android API.pptx 파일 참고
++ 자세한 건 Android API.pdf 파일 참고
 ---
