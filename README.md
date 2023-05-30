@@ -14,4 +14,9 @@
 ---
 # Firbase
 [![Firebase](firebase.png)](https://firebase.google.com/?hl=ko)
-
+----
+## 쉽고 빠르게 서버(백엔드)를 구축할 수 있는 서비스
+Firebase는 14년도에 구글에서 인수한 모바일, 웹 애플리케이션 개발 플랫폼
+16년도부터 구글에서 서비스를 대폭 강화한 BaaS(Backend as a Service)
+백엔드 기능을 클라우드 서비스 형태로 제공하기 때문에 서버리스 애플리케이션 개발 가능
+앱 개발자가 앱 개발(프런트엔드)에만 전념할 수 있음!
